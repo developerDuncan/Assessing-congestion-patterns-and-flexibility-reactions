@@ -14,4 +14,6 @@ Fourthly, n scripting file 2 Envelopes.py’'and file 3, results processing the 
 
 In file 4a up to 4e, the results are visualized in the networkX graphs.
 
+The most important code snippets are specifically elaborated on in the Appendix file, with introduction and summaries to what the code does.
+
 The provided code in this Github repository have been adjusted and anonymized, so that no vulnerable information is published. Especially with regard to topology name structures, name entries have been adapted.
